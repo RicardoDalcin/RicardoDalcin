@@ -1,6 +1,6 @@
 ### Hello there, I'm Ricardo 👋
 
-## I'm a CS major, trying to make something cool
+## I'm a Computer Science student trying to make something cool
 
 - 🍺 I'm currently working on a management SPA for a brewing company
 - 🌌 Kind of a React fanboy, not gonna lie
