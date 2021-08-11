@@ -10,4 +10,8 @@
 
 <br>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoDalcin&show_icons=true&hide_border=true&theme=dracula" />
+<div>
+  <img height="180em" align="left" alt="Ricardo's GitHub stats" src="https://github-readme-stats.vercel.app/api?      username=RicardoDalcin&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoDalcin&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
