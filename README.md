@@ -10,4 +10,4 @@
 
 <br>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoDalcin&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RicardoDalcin&show_icons=true&hide_border=true&theme=dracula" />
