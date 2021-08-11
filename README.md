@@ -1,4 +1,4 @@
-### Hello there, I'm Ricardo 👋
+### Hello there, I'm <span color="#ff5555">Ricardo</span> 👋
 
 ## I'm a Computer Science student trying to make something cool
 
