@@ -1,12 +1,6 @@
 ### Hello there, I'm Ricardo 👋
 
-## I'm a Computer Science student trying to make something cool
-
-- 🪙 Front-end Web Developer at Nelogica
-- 🍺 I'm currently working on a management SPA for a brewing company
-- 🌌 Kind of a React fanboy, not gonna lie
-- 🚀 I make games every once in a while
-- ✏️ Avid learner, always seeking for knowledge
+## Computer science student at UFRGS and front-end developer at Nelogica.
 
 <br>
 
