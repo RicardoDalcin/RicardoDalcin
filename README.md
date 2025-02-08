@@ -1,6 +1,6 @@
 ### Hello there, I'm Ricardo 👋
 
-## Computer science student at UFRGS and front-end developer at Nelogica.
+## Lead Software Engineer at Nelogica
 
 <br>
 
